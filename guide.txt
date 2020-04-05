@@ -1,0 +1,8 @@
+1.npm install
+  
+  open second terminal panel and write
+  json-server --watch db.json --port 3004
+  
+  show http://localhost:3004/users in the browser at the same time with http://localhost:3000/
+  
+  This link have to be open in the working process.

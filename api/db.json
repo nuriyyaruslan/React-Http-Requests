@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "unique-3",
+      "fullname": "H.G.Wells",
+      "position": "Writer",
+      "salary": "5000"
+    },
+    {
+      "fullname": "Nuriyya Ruslan",
+      "position": "Team Leader",
+      "salary": "6000",
+      "id": "Z5bMUAh"
+    },
+    {
+      "fullname": "Virginia",
+      "position": "",
+      "salary": "4900",
+      "id": "tT415yH"
+    },
+    {
+      "fullname": "George Orwell",
+      "position": "Writer",
+      "salary": "4000",
+      "id": "aGlHX-2"
+    },
+    {
+      "fullname": "Nuriyya Ruslanova",
+      "position": "director",
+      "salary": "436564",
+      "id": "ufewWJ3"
+    }
+  ]
+}
